@@ -22,8 +22,8 @@ import { useTranslation } from "react-i18next";
 
 export default function About() {
   const { t } = useTranslation();
-  const prevRef = React.useRef(null);
-  const nextRef = React.useRef(null);
+  // const prevRef = React.useRef(null);
+  // const nextRef = React.useRef(null);
   const swipstl = "bg-[#FFFFFF]  h-[520px] rounded-[10px] ";
   const swiperData = [
     {
