@@ -50,15 +50,15 @@ export default function About() {
           clickable: true,
         }}
         navigation={{
-          prevEl: prevRef.current,
-          nextEl: nextRef.current,
+          prevEl: ".prevarrow",
+          nextEl: ".nextarrow",
         }}
-        onSwiper={(swiper) => {
-          swiper.params.navigation.prevEl = prevRef.current;
-          swiper.params.navigation.nextEl = nextRef.current;
-          swiper.navigation.init();
-          swiper.navigation.update();
-        }}
+        // onSwiper={(swiper) => {
+        //   swiper.params.navigation.prevEl = prevRef.current;
+        //   swiper.params.navigation.nextEl = nextRef.current;
+        //   swiper.navigation.init();
+        //   swiper.navigation.update();
+        // }}
         modules={[Navigation]}
         loop
         className="mySwiper mt-[20px] rounded-[10px] "
@@ -104,15 +104,15 @@ export default function About() {
              max-sm:h-[24px] max-sm:gap-[10px] max-sm:mt-[20px]"
       >
         <div
-          ref={prevRef}
-          className="w-[50px] cursor-pointer  h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
+          // ref={prevRef}
+          className="prevarrow w-[50px] cursor-pointer  h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
                 max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] "
         >
           <GoArrowLeft />
         </div>
         <div
-          ref={nextRef}
-          className="w-[50px] cursor-pointer h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
+          // ref={nextRef}
+          className="nextarrow w-[50px] cursor-pointer h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
                 max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] "
         >
           <GoArrowRight />
