@@ -11,8 +11,6 @@ import { useTranslation } from "react-i18next";
 
 export default function Clients() {
   const { t } = useTranslation();
-  const prevRef = React.useRef(null);
-  const nextRef = React.useRef(null);
   const swipstl = "bg-[#FFFFFF]  rounded-[10px] ";
   const swiperData = [
     {
