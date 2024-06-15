@@ -126,14 +126,14 @@ export default function Clients() {
         <div
           ref={prevRef}
           className="w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
-                max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] "
+                max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] cursor-pointer "
         >
           <GoArrowLeft />
         </div>
         <div
           ref={nextRef}
           className="w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
-                max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] "
+                max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] cursor-pointer "
         >
           <GoArrowRight />
         </div>

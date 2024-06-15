@@ -132,7 +132,7 @@ export default function Contacts() {
           </h5>
           <input
             type="email"
-            className="bg-[#F9F9F9]  pl-[10px] rounded-[8px] outline-none"
+            className="bg-[#F9F9F9]  p-[10px] rounded-[8px] outline-none"
           />
           <h5
             className="font-[400] text-[12px] leading-[14px] mt-[18px] mb-[8px]
@@ -142,7 +142,7 @@ export default function Contacts() {
           </h5>
           <input
             type="number"
-            className="bg-[#F9F9F9] pl-[10px] rounded-[8px] outline-none"
+            className="bg-[#F9F9F9] p-[10px] rounded-[8px] outline-none"
           />
           <button className="w-full h-[39px] bg-[#0E2A75] text-[#FFFFFF] rounded-[8px] mt-[40px] flex justify-center items-center gap-[6px] max-md:mt-[30px]">
             {t("contacts.text5")}
