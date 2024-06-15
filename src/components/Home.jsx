@@ -9,13 +9,13 @@ import Contacts from '../pages/Contacts'
 export default function Home() {
     return (
         <>
-            <div >
+            <div className='container'>
                 <Header />
                 <About/>
                 <Sale/>
                 <Clients/>
                 <Contacts/>
-                <Footer />
+                <Footer /> 
             </div>
         </>
     )

@@ -1,36 +1,45 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-*{
+body {
+  font-family: "Inter", sans-serif;
+}
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
-body{
+body {
   background: rgba(249, 249, 249, 1);
 }
-.bgimg2{
+.bgimg2 {
   background-image: url(./img/bgimgg.png);
- 
+
   background-size: cover;
 }
-.bgimg{
+.bgimg {
   background-image: url(./img/bgimg.png);
+
+  background-size: cover;
 }
-.bgimg3{
+.bgimg3 {
   background-image: url(./img/bgimg6.png);
   background-position: center;
-    background-size: cover;
+  background-size: cover;
 }
-.bgimg4{
+.bgimg4 {
   background-image: url(./img/bgimg9.png);
   background-position: center;
-    background-size: cover;
+  background-size: cover;
 }
-.bgimg5{
+.bgimg5 {
   background-image: url(./img/bgimg12.png);
   background-position: center;
-    background-size: cover;
+  background-size: cover;
+}
+.border-red {
+  border: 1px solid #ff0000;
 }

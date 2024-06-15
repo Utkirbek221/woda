@@ -1,0 +1,79 @@
+{
+  "header": {
+    "link1": "About Us",
+    "link2": "Promotions",
+    "link3": "Clients",
+    "link4": "Contacts"
+  },
+  "swiper": {
+    "title": "We deliver water in less than",
+    "titleSpan": "24 hours.",
+    "texts": "Fast delivery is a priority in our company, which is why we deliver water in less than 24 hours from the time of order. If our team fails to deliver water within the specified time, one capsule of water is provided for free.",
+    "link": "Contact us"
+  },
+  "swiperCustomer": {
+    "title": "Rakhimjon Ermatov",
+    "titleSpan": "Senior Machinist at Temiryo’l JSC.",
+    "texts": "Hot promotion for hot days! Buy 8 water capsules for only 130,000 UZS. Hurry up, the promotion period is limited. When you buy the first three capsules, we will give you a mechanical pump as a gift. Buy coolers at the best price and get 10 water capsules as a gift."
+  },
+  "about": {
+    "tex": "About Us",
+    "text": "Drinking water of the highest quality",
+    "texts": "LLC 'Waterzone Group', established in 2012 under the brand Woda, extracts mineral water from the artesian well n 5559(14) located in the Yukorichirchik district of the Tashkent region.",
+    "texts2": "To make water not only clean but also healthy, we use an eight-stage water purification process followed by the addition of minerals.",
+    "texts3": "More about us",
+    "texts4": "Promotions and bonuses",
+    "texts5": "Several ways to order online",
+    "texts6": "Customer reviews",
+    "texts7": "Free water delivery",
+    "text2": "We have already been chosen by",
+    "texts8": "10+ large companies",
+    "text3": "Thousands of people live without love, but no one without water.",
+    "texts9": "Production per month",
+    "texts10": "Monthly growth"
+  },
+  "sale": {
+    "text": "Our promotions",
+    "texts": "5 great promotions",
+    "texts2": "Placing your first order with us? In that case, we have a special offer just for you. Order 5 water capsules and get 2 additional water capsules for free. This offer is valid only for the first order.",
+    "text2": "thousand sum",
+    "texts3": "Hot promotion for hot days! Buy 8 water capsules for only 130 thousand sum. Hurry, the promotion period is limited.",
+    "text3": "Begin with 10",
+    "texts4": "Buy coolers at the best price and get 10 water capsules as a gift.",
+    "text4": "Pump as a gift",
+    "texts5": "When buying the first three capsules, we give you a mechanical pump as a gift.",
+    "text5": "We keep the prices",
+    "texts6": "Since May 1, prices for many products have increased. However, our prices have remained the same.",
+    "text6": "More than 50% of the human body is made up of water."
+  },
+  "clients": {
+    "text": "Customer reviews",
+    "texts": "More than 30 satisfied clients",
+    "text2": "Water is the only suitable drink for the wise."
+  },
+  "contacts": {
+    "text": "Our step-by-step process",
+    "texts": "Consists of 4 stages",
+    "texts2": "The request is received via call or Telegram",
+    "texts3": "The request is added to the general delivery table",
+    "texts4": "Our courier delivers the water within 24 hours",
+    "texts5": "Upon receiving the capsule, you pay by card or cash",
+    "text2": "Submit a request",
+    "texts6": "Our operators will contact you shortly",
+    "text3": "Name*",
+    "text4": "Phone*",
+    "text5": "Send",
+    "texts7": "Contact information",
+    "texts8": "Do you have questions or suggestions?",
+    "texts9": "Contact us if you have any questions or want to get additional information",
+    "text6": "Our address",
+    "texts11": "Tashkent, Almazar, Jami Street 5.",
+    "text7": "Order acceptance",
+    "texts12": "Daily 24 hours",
+    "text8": "Email address",
+    "text9": "Delivery",
+    "text10": "Mon - Wed",
+    "text11": "Phone number",
+    "text12": "We are on social networks"
+  }
+}

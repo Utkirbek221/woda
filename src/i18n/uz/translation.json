@@ -1,0 +1,79 @@
+{
+  "header": {
+    "link1": "Biz haqimizda",
+    "link2": "Aksiya",
+    "link3": "Mijozlar",
+    "link4": "Kontaktlar"
+  },
+  "swiper": {
+    "title": "Biz suvni kamroq",
+    "titleSpan": "24 soat ichida yetkazib beramiz.",
+    "texts": "Tez yetkazib berish bizning kompaniyamizda ustuvor vazifa, shuning uchun biz suvni buyurtma berilgan vaqtdan boshlab 24 soat ichida yetkazib beramiz. Agar bizning jamoa suvni ko'rsatilgan muddatda yetkazib berishga ulgurmasa, bir kapsula suv bepul taqdim etiladi.",
+    "link": "Biz bilan bog'laning"
+  },
+  "swiperCustomer": {
+    "title": "Raximjon Ermatov",
+    "titleSpan": "Temiryo’l AJ katta mashinisti.",
+    "texts": "Issiq kunlar uchun issiq aksiya! Faqatgina 130,000 so'mga 8 ta suv kapsulasini xarid qiling. Shoshiling, aksiya muddati cheklangan. Birinchi uchta kapsulani xarid qilganingizda, biz sizga mexanik pompani sovg'a qilamiz. Eng yaxshi narxda sovutgichlarni sotib oling va 10 ta suv kapsulasini sovg'a sifatida oling."
+  },
+  "about": {
+    "tex": "Biz haqimizda",
+    "text": "Eng yuqori sifatli ichimlik suvi",
+    "texts": "2012 yilda Woda brendi ostida tashkil etilgan 'Waterzone Group' MChJ, Toshkent viloyati, Yuqorichirchik tumanida joylashgan 5559(14) raqamli artezian qudug'idan mineral suv chiqaradi.",
+    "texts2": "Suvni nafaqat toza, balki sog'lom qilish uchun biz sakkiz bosqichli suv tozalash jarayonidan foydalanamiz va keyin minerallar qo'shamiz.",
+    "texts3": "Batafsil",
+    "texts4": "Aksiya va bonuslar",
+    "texts5": "Onlayn buyurtma berishning bir necha usullari",
+    "texts6": "Mijozlarimizning sharhlari",
+    "texts7": "Bepul suv yetkazib berish",
+    "text2": "Bizni allaqachon tanlaganlar",
+    "texts8": "10+ yirik kompaniyalar",
+    "text3": "Minglab odamlar sevgisiz yashaydi, lekin hech kim suvsiz yashamaydi.",
+    "texts9": "Oyiga ishlab chiqarish",
+    "texts10": "Oylik o'sish"
+  },
+  "sale": {
+    "text": "Bizning aksiyalarimiz",
+    "texts": "5 ajoyib aksiyalar",
+    "texts2": "Bizda birinchi marta buyurtma berayapsizmi? Bunday holatda siz uchun maxsus aksiya mavjud. 5 ta suv kapsulasini buyurtma qiling va 2 ta qo'shimcha suv kapsulasini bepul oling. Aksiya faqat birinchi buyurtma uchun amal qiladi.",
+    "text2": "ming so'm",
+    "texts3": "Issiq kunlar uchun issiq aksiya! 8 ta suv kapsulasini faqat 130 ming so'mga sotib oling. Shoshiling, aksiya muddati cheklangan.",
+    "text3": "10 dan boshlang",
+    "texts4": "Sovutgichlarni eng yaxshi narxda sotib oling va sovg'a sifatida 10 ta suv kapsulasini oling.",
+    "text4": "Sovg'a sifatida pompa",
+    "texts5": "Birinchi uchta kapsulani sotib olayotganda, sizga mexanik pompa sovg'a qilamiz.",
+    "text5": "Narxlarni ushlab turamiz",
+    "texts6": "Birinchi maydan boshlab ko'plab mahsulotlar narxi oshdi. Bizda esa narx o'zgarmadi.",
+    "text6": "Inson tanasining 50% dan ko'prog'i suvdan iborat."
+  },
+  "clients": {
+    "text": "Mijozlarimizning sharhlari",
+    "texts": "30 dan ortiq mamnun mijozlar",
+    "text2": "Suv - dono odamlar uchun yagona mos ichimlikdir."
+  },
+  "contacts": {
+    "text": "Bizning bosqichma-bosqich jarayonimiz",
+    "texts": "4 bosqichdan iborat",
+    "texts2": "So‘rov qo‘ng‘iroq yoki Telegram orqali qabul qilinadi",
+    "texts3": "So‘rov umumiy yetkazib berish jadvaliga qo‘shiladi",
+    "texts4": "Bizning kuryerimiz 24 soat ichida suvni yetkazib beradi",
+    "texts5": "Kapsulani olganingizda, kartangiz yoki naqd pul bilan to‘laysiz",
+    "text2": "So‘rov yuboring",
+    "texts6": "Operatorlarimiz tez orada siz bilan bog‘lanadi",
+    "text3": "Ism*",
+    "text4": "Telefon*",
+    "text5": "Yuborish",
+    "texts7": "Aloqa ma'lumotlari",
+    "texts8": "Savollaringiz yoki takliflaringiz bormi?",
+    "texts9": "Agar sizda biron bir savol bo'lsa yoki qo'shimcha ma'lumot olishni istasangiz, biz bilan bog'laning",
+    "text6": "Bizning manzilimiz",
+    "texts11": "Toshkent, Almazar, Jami ko'chasi 5.",
+    "text7": "Buyurtmalarni qabul qilish",
+    "texts12": "Har kuni 24 soat",
+    "text8": "Elektron pochta manzili",
+    "text9": "Yetkazib berish",
+    "text10": "Du - Chorshanba",
+    "text11": "Telefon raqami",
+    "text12": "Biz ijtimoiy tarmoqlarda"
+  }
+}
