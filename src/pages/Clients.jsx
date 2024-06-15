@@ -77,14 +77,8 @@ export default function Clients() {
             clickable: true,
           }}
           navigation={{
-            prevEl: prevRef.current,
-            nextEl: nextRef.current,
-          }}
-          onSwiper={(swiper) => {
-            swiper.params.navigation.prevEl = prevRef.current;
-            swiper.params.navigation.nextEl = nextRef.current;
-            swiper.navigation.init();
-            swiper.navigation.update();
+            prevEl: ".prevArrow",
+            nextEl: ".nextArrow",
           }}
           modules={[Navigation]}
           loop
@@ -123,16 +117,12 @@ export default function Clients() {
         className="m-auto  h-[50px] mt-[40px] flex justify-center items-center gap-[20px] 
                  max-sm:h-[24px] max-sm:gap-[10px] max-sm:mt-[20px]"
       >
-        <div
-          ref={prevRef}
-          className="w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
+        <div className="prevArrow w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
                 max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] cursor-pointer "
         >
           <GoArrowLeft />
         </div>
-        <div
-          ref={nextRef}
-          className="w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
+        <div className="nextArrow w-[50px] h-[50px] bg-[#FFFFFF] rounded-[50%] flex justify-center items-center text-[24px]
                 max-sm:w-[24px] max-sm:h-[24px] max-sm:text-[14px] cursor-pointer "
         >
           <GoArrowRight />
