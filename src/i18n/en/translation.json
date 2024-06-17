@@ -74,6 +74,8 @@
     "text9": "Delivery",
     "text10": "Mon - Wed",
     "text11": "Phone number",
-    "text12": "We are on social networks"
+    "text12": "We are on social networks",
+    "invalidNumber":"Please enter a valid number",
+    "invalidEmail": "Please enter an Name"
   }
 }

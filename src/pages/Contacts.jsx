@@ -3,7 +3,6 @@ import hendset from "../img/headset.png";
 import payment from "../img/payment.png";
 import document from "../img/document.png";
 import car2 from "../img/car2.png";
-import { GoArrowUpRight } from "react-icons/go";
 import { TbBrandTelegram } from "react-icons/tb";
 import { SlSocialInstagram } from "react-icons/sl";
 import { SlLocationPin } from "react-icons/sl";
@@ -13,6 +12,7 @@ import { FaTruckFast } from "react-icons/fa6";
 import { FaHeadset } from "react-icons/fa";
 import { HiOutlineUserGroup } from "react-icons/hi2";
 import { useTranslation } from "react-i18next";
+import TelegramBot from "./Telegrambot";
 
 export default function Contacts() {
   const { t } = useTranslation();
@@ -108,49 +108,9 @@ export default function Contacts() {
       </div>
       <div className="m-auto mt-[60px] flex justify-end p-[50px] max-lg:px-[30px] max-md:p-[20px] bgimg5 rounded-[16px] relative max-lg:mt-[40px] max-sm:mt-[32px]">
         <div className="bg-[#FFFFFF] rounded-[16px] h-full flex flex-col p-[40px] max-md:p-[20px] max-md:w-full mt-[100px]">
-          <h1
-            className="text-[28px] font-[600]
-                        max-md:text-[16px]"
-          >
-            {t("contacts.text2")}
-          </h1>
-          <p
-            className="text-[16px] max-w-[360px] text-[#222222] font-[400] leading-[24px] mt-[6px] mb-[24px] 
-                        max-md:text-[12px] max-md:leading-[18px] max-md:mt-[10px] max-md:mb-[20px]"
-          >
-            {t("contacts.texts6")}
-          </p>
-          <div
-            className="w-[360px] border-[1px] border-[#E4E4E4]
-                        max-md:hidden"
-          ></div>
-          <h5
-            className="font-[400] text-[12px] leading-[14px] mt-[32px] mb-[8px]
-                        max-md:text-[10px]  max-md:mt-[0px]"
-          >
-            {t("contacts.text3")}
-          </h5>
-          <input
-            type="email"
-            className="bg-[#F9F9F9]  p-[10px] rounded-[8px] outline-none"
-          />
-          <h5
-            className="font-[400] text-[12px] leading-[14px] mt-[18px] mb-[8px]
-                        max-md:text-[10px] "
-          >
-            {t("contacts.text4")}
-          </h5>
-          <input
-            type="number"
-            className="bg-[#F9F9F9] p-[10px] rounded-[8px] outline-none"
-          />
-          <button className="w-full h-[39px] bg-[#0E2A75] text-[#FFFFFF] rounded-[8px] mt-[40px] flex justify-center items-center gap-[6px] max-md:mt-[30px]">
-            {t("contacts.text5")}
-            <GoArrowUpRight className="text-[20px]" />
-          </button>
+        <TelegramBot/>
         </div>
       </div>
-
       <div className=" mt-[24px] grid grid-cols-[1fr_.7fr] max-lg:grid-cols-[1fr] gap-[20px] relative">
         <div className="bg-[#FFFFFF] flex-[1] max-lg:order-1 rounded-[16px] flex justify-center items-center max-lg:border max-sm:bottom-0 py-[38px] px-[64px] max-xl:px-[50px] max-xl:py-[30px] max-lg:py-[38px] max-lg:px-[20px]">
           <div className="">

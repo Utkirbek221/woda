@@ -74,6 +74,8 @@
     "text9": "Yetkazib berish",
     "text10": "Du - Chorshanba",
     "text11": "Telefon raqami",
-    "text12": "Biz ijtimoiy tarmoqlarda"
+    "text12": "Biz ijtimoiy tarmoqlarda",
+    "invalidNumber":"Yaroqli raqam kiriting",
+    "invalidEmail":"Iltimos, ism kiriting"
   }
 }
